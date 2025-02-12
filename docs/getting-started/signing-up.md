@@ -7,7 +7,7 @@ nav_order: 1
 
 # Signing up for a new account
 
-- There are plenty of places where we have tried to click-bait you in order to sign up (pricing, landing, use case pages). Click on any of the sign in button to sign up.
+- There are plenty of places where we have tried to click-bait you in order to sign up (pricing, landing, use case pages). Click on any of the sign in buttons to sign up.
 
 ![Sign Up Button](/assets/images/signup.png)
 
