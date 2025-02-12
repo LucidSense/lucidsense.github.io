@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: LucidSense Documentation
+description: LucidSense Documentation!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://lucidsense.github.io/docs
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Control Panel: https://lucidsense.ai
+footer_content: "Copyright &copy; 2025 LucidSense."
