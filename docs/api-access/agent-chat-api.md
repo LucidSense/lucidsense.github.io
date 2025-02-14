@@ -73,7 +73,7 @@ A successful request returns a JSON object with the following structure:
 ```json
 {
     "chat_id": "67aacda236ba66b3082b1fe5",
-    "reply": "The factorial of 6 was already calculated: it's 720. Is there anything else you'd like to do or ask?"
+    "reply": "The factorial of 6 is 720. Is there anything else you'd like to do or ask?"
 }
 ```
 
