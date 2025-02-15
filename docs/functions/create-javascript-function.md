@@ -11,7 +11,7 @@ nav_order: 1
 
 ![Create javascript function](/assets/images/create-javascript-function.png)
 
-- Fill in the details and add the parameters that will go as function input. The `Hide From LLM` field will prevent the field to be exposed to the LLM during agent execution. So typically if you want to pass fields via context directly into the API call, enable it. 
+- Fill in the details and add the parameters that will go as function input. The `Hide From LLM` field will prevent the field to be exposed to the LLM during agent execution. So typically if you want to pass fields via context directly into the function call, enable it. 
 
 - Select the Runtime as "Javascript" from the dropdown and add the Javascript source code in the text area input. Since the javascript code is executed using a framework called dukpy, the input parameters will be available to the function in an object called `dukpy`.
 
