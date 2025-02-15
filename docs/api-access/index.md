@@ -5,7 +5,7 @@ nav_order: 6
 has_children: true
 ---
 
-# Getting Started
+# API Access
 
 An API key is used to gain access to the agent chat API.
 

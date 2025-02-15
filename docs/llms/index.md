@@ -5,7 +5,7 @@ nav_order: 3
 has_children: true
 ---
 
-# Getting Started
+# LLMs
 This section covers 
 - LLM addition
 - LLM management
