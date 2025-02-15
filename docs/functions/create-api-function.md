@@ -17,7 +17,7 @@ nav_order: 2
 
 - Fill in the details like the HTTP method type, endpoint, request headers, request body, query parameters and content type.
 
-- Note that the endpoint, request headers, request body and query parameters are templates, so you can pass placeholder values that will be injected using the parameters during runtime. The template engine used it Jinja2. For example you can pass a variable like `\{\{variable1\}\}`
+- Note that the endpoint, request headers, request body and query parameters are templates, so you can pass placeholder values that will be injected using the parameters during runtime. The template engine used it Jinja2.
 
 - The headers and query parameters must be passed in JSON format.
 
