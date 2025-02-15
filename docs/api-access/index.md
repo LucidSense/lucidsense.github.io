@@ -6,6 +6,9 @@ has_children: true
 ---
 
 # Getting Started
+
+An API key is used to gain access to the agent chat API.
+
 This section covers
 - Creating and managing API keys.
 - Providing agent access to API key
