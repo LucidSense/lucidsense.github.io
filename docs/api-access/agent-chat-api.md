@@ -9,7 +9,7 @@ nav_order: 3
 
 ## Endpoint
 
-**URL:** `https://lucidsense.co/client/api/v1/agents/{agent_id}/execute`
+**URL:** `https://sense.lucidstack.xyz/client/api/v1/agents/{agent_id}/execute`
 
 **Method:** `POST`
 
@@ -54,7 +54,7 @@ The request body must be in JSON format with the following structure:
 ## Example Request
 
 ```bash
-curl --location 'https://lucidsense.co/client/api/v1/agents/<agent_id>/execute' \
+curl --location 'https://sense.lucidstack.xyz/client/api/v1/agents/<agent_id>/execute' \
 --header 'Authorization: ApiKey <your_api_key>' \
 --header 'Content-Type: application/json' \
 --data '{
